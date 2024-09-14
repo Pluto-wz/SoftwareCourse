@@ -4,7 +4,7 @@ import com.wangzheng.utils.HammingUtils;
 import com.wangzheng.utils.SimHashUtils;
 import com.wangzheng.utils.TxtIOUtils;
 
-public class Text {
+public class Main {
 
     public static void main(String[] args) {
         // 从命令行输入的路径名读取对应的文件，将文件的内容转化为对应的字符串
